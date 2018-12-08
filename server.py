@@ -21,4 +21,4 @@ def enable_cors():
 
 @app.route('/')
 def root():
-	return 'Hello from Arun'
+	return 'Hello from heroku server'
